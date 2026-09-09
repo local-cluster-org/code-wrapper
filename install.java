@@ -10,7 +10,7 @@ import java.util.Base64;
 public class SastVulnerabilityDemo {
 
     // =========================
-    // LOW: Hardcoded configuration
+    // LOW: Hardcoded configurationfsdfsdf
     // =========================
     private static final String DEBUG_MODE = "true";
     private static final String SERVER_URL = "http://example.com";
